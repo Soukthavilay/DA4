@@ -1,0 +1,74 @@
+
+#left{
+	width: 20%;
+	height:100% auto;
+	float:left;
+
+}
+#right{
+	width: 80%;
+	height:100% auto;
+	
+	float:right;
+}
+#container-fluid{
+
+}
+.thep{
+	 text-indent: 20px;
+}
+tr{
+
+}
+td{
+	text-align: left;
+}
+.sp{
+	color:black;
+	font-size: 10px;
+}
+#usb{
+	float:left;
+	border:1px solid gray;
+	padding:13px;
+	
+	margin :20px ;
+	margin-right:5px;
+}
+.noidungFind{
+	color:red;
+}
+.client{
+	border:2px solid gray;
+	float:left;
+	clear:both;
+	padding:15px;
+	margin-bottom:20px;
+	color:blue;
+}
+.find{
+	border:0.5px dotted gray;
+	float:left;
+	clear:both;
+	color:red;
+	
+}
+.change{
+	border:0.5px dotted gray;
+	float:left;
+	clear:both;
+	color:red;
+	
+}
+#thongbao{
+	color:gray;
+	padding-left:20px;
+	clear:both;
+	font-size:15px;
+}
+.action{
+	margin-right:20px;
+}
+#info{
+	margin-left:120px;
+}
